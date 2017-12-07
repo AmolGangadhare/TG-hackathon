@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TechGig Android Hackathon</string>
+    <string name="str_search_country">Search country</string>
+    <string name="str_loading">Loading</string>
+</resources>
