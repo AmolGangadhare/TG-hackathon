@@ -1,1 +1,1 @@
-# ALGMyRepository
+# TG Hackathon
